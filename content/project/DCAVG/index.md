@@ -3,7 +3,7 @@ title: Bitcoin Automatic Dollar Cost Averaging
 summary: Tool that allows you to buy Bitcoin with your Binance account automatically every day.
 tags:
 - Bitcoin
-date: "2020-08-01T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

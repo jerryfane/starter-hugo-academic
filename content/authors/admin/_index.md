@@ -64,8 +64,10 @@ email: "jerry.fanelli@gmail.com"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a student in Data Science and Business Analytics at Bocconi University, with a great interest in everything including Blockchain and Cryptocurrencies.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My fascination in innovation and technology has always piqued my curiosity, and this, together with my entrepreneurial attitude, prompted me to self-study my first programming language: Python. As a result, I was able to pursue a Master's degree in Data Science, allowing me to further develop my interests in Machine Learning and its application to the area of cryptocurrencies.
+
+Now my interests and knowledge are reflected in my personal projects, such as the 2D Convolutional Neural Network to predict the price of Bitcoin and the Bitcoin Dollar Cost Averaging tool. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
