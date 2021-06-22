@@ -66,7 +66,7 @@ highlight_name: false
 
 I am a student in Data Science and Business Analytics at Bocconi University, with a great interest in Blockchain and Cryptocurrencies.
 
-My curiosity in innovation and technology has always piqued my interest, and this, together with my entrepreneurial mindset, led me to self-study my first programming language: Python. As a result, I was able to pursue a Master's degree in Data Science, which allowed me to explore my interests in Machine Learning and its application to the field of cryptocurrencies further.
+I have always been fascinated by innovation and technology, and this, together with my entrepreneurial mindset, led me to self-study my first programming language: Python. As a result, I was able to pursue a Master's degree in Data Science, which allowed me to explore my interests in Machine Learning and its application to the field of cryptocurrencies further.
 
 Now my interests and knowledge are reflected in my personal projects, such as the 2D Convolutional Neural Network to predict the price of Bitcoin and the Bitcoin Dollar Cost Averaging tool.
 
