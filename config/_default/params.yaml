@@ -22,13 +22,13 @@ twitter: ''
 
 email: jerry.fanelli@gmail.com
 # phone: 888 888 88 88
-address:
-  street: Via Paolo Sarpi, 3
-  city: Treviso
-  region: Veneto
-  postcode: '31100'
-  country: Italy
-  country_code: IT
+# address:
+#  street: Via Paolo Sarpi, 3
+#  city: Treviso
+#  region: Italy
+#  postcode: '31100'
+#  country: Italy
+#  country_code: IT
 # coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
@@ -40,7 +40,7 @@ address:
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Jerry543_
     link: 'https://twitter.com/Jerry543_'
 #  - icon: skype
 #    icon_pack: fab
@@ -58,7 +58,7 @@ contact_links:
 # Site header
 
 main_menu:
-  enable: true
+  enable: false
   align: l
   show_logo: true
   show_language: false

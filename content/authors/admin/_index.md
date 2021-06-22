@@ -11,7 +11,7 @@ role: MSc Student - Data Science and Business Analytics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Bocconi University
-  url: https://www.unibocconi.it/wps/wcm/connect/Bocconi/SitoPubblico_IT/Albero+di+navigazione/Home/
+  url: https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
