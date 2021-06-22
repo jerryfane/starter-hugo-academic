@@ -70,4 +70,4 @@ I have always been fascinated by innovation and technology, and this, together w
 
 Now my interests and knowledge are reflected in my personal projects, such as the 2D Convolutional Neural Network to predict the price of Bitcoin and the Bitcoin Dollar Cost Averaging tool.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
