@@ -64,10 +64,10 @@ email: "jerry.fanelli@gmail.com"
 highlight_name: false
 ---
 
-I am a student in Data Science and Business Analytics at Bocconi University, with a great interest in Blockchain and Cryptocurrencies.
+Student in Data Science and Business Analytics at Bocconi University with interest and passion for Blockchain and Cryptocurrencies.
 
-I have always been fascinated by innovation and technology, and this, together with my entrepreneurial mindset, led me to self-study my first programming language: Python. As a result, I was able to pursue a Master's degree in Data Science, which allowed me to explore my interests in Machine Learning and its application to the field of cryptocurrencies further.
+Innovation and technology have always been in my life and this led me to self-study Python, and devoting myself to programming. By pursuing this path, I have been able to pursue a Master's degree in Data Science, which has allowed me to further explore my interests in Machine Learning and its application to the cryptocurrency field.
 
-Now my interests and knowledge are reflected in my personal projects, such as the 2D Convolutional Neural Network to predict the price of Bitcoin and the Bitcoin Dollar Cost Averaging tool.
+Now my interests and knowledge are reflected in my personal projects, such as the 2D Convolutional Neural Network for predicting the price of Bitcoin and the Bitcoin Dollar Cost Averaging tool.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
